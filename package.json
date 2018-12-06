@@ -1,0 +1,23 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Guider l’utilisateur de votre site ou application. Cependant, tel un mélange entre l’IA GLaDOS et Sheldon Cooper, cette intelligence artificielle, en plus de n’en faire qu’à sa tête, est une insupportable Je-sais-tout !",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.5.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmgenius/Chatbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmgenius/Chatbot/issues"
+  },
+  "homepage": "https://github.com/mmgenius/Chatbot#readme"
+}
