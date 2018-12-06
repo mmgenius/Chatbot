@@ -1,9 +1,5 @@
 .DS_Store
-<<<<<<< HEAD
 node_modules
-=======
-node_modules/
->>>>>>> 7eeb4a2778cd47897663f75cd2c08f13173afb02
 package-lock.json
 /dist
 
@@ -24,7 +20,3 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
-<<<<<<< HEAD
-=======
-
->>>>>>> 7eeb4a2778cd47897663f75cd2c08f13173afb02
